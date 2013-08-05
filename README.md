@@ -1,6 +1,10 @@
 rms [![Build Status](https://api.travis-ci.org/WPI-RAIL/rms.png)](https://travis-ci.org/WPI-RAIL/rms)
 ===
 
+### This Version
+
+This forked version of RMS is especially made for the August Hackathon held by Brown University and WPI.
+
 #### RMS (Robot Management System)
 
 RMS is a remote lab management tool designed for use with controlling ROS enabled robots from the web.
